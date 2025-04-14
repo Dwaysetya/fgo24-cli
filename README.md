@@ -2,6 +2,8 @@
 
 This is a bare minimum usage of cli, according to mini task on **Day 1** (14/042025)
 
+## without loop
+
 ```bash
 mkdir   "Latihan LCI Dasar"
 cd      "Latihan LCI Dasar"
@@ -20,7 +22,7 @@ rmdir   "latihan4.txt"
 
 ```
 
-## without loop
+## with loop
 
 ```bash
 
