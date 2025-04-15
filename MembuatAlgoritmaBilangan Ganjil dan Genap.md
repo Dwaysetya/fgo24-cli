@@ -1,6 +1,6 @@
 # Mini-task Algoritma
 
-This is a bare minimum usage of algoritma, according to mini task on **Day 1** (14/042025)
+This is a bare minimum usage of algoritma, according to mini task on **Day 2** (15/042025)
 
 ## Algoritma menentukan bilangan ganjil dan genap
 
